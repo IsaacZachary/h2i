@@ -1,0 +1,17 @@
+
+h2 {font-size: 15px; font-weight: bold; padding: 20px 0 10px 0}
+
+#wpcatsort-cont {}
+#wpcatsort-cont img {vertical-align: middle}
+#wpcatsort-cont .wpcatsort-sortable { list-style-type: none; margin: 20px 0 0; padding: 0; width: 100%; }
+#wpcatsort-cont ul {list-style: none;}
+#wpcatsort-cont ul.children {margin-left: 25px} 
+
+#wpcatsort-cont .wpcatsort-sortable li > .item { padding: 2px 0px; margin: 4px 0px;  border: 1px solid #555; cursor: move; -moz-border-radius:6px; background-color: #f9f9f9;}
+#wpcatsort-cont .wpcatsort-sortable li:nth-child(2n+1) > .item {    background-color: #fff !important;}
+#wpcatsort-cont .wpcatsort-sortable li span { display: block; padding: 5px 10px; color:#555; font-size:13px;}
+#wpcatsort-cont .wpcatsort-sortable li.placeholder{border: dashed 2px #ccc;height:30px; background-color: #FFF;}
+
+.clear {clear: both}
+
+
